@@ -1,3 +1,3 @@
-# Soul
-My game (soul is a placeholder for now)
+# SoulsBound
+My game (soulsbound is probably not a placeholder)
 the checklist disapeared
